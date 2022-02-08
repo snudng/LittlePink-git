@@ -13,7 +13,7 @@
 		EE4E6A9F27B24B9900DE7707 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE4E6A9D27B24B9900DE7707 /* Main.storyboard */; };
 		EE4E6AA127B24B9900DE7707 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE4E6AA027B24B9900DE7707 /* Assets.xcassets */; };
 		EE4E6AA427B24B9900DE7707 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE4E6AA227B24B9900DE7707 /* LaunchScreen.storyboard */; };
-		EE4E6AAC27B2585C00DE7707 /* .gitignore.rtf in Resources */ = {isa = PBXBuildFile; fileRef = EE4E6AAB27B2585C00DE7707 /* .gitignore.rtf */; };
+		EE4E6AAE27B260A800DE7707 /* Swift.gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EE4E6AAD27B260A800DE7707 /* Swift.gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		EE4E6AA027B24B9900DE7707 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE4E6AA327B24B9900DE7707 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE4E6AA527B24B9900DE7707 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EE4E6AAB27B2585C00DE7707 /* .gitignore.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = .gitignore.rtf; sourceTree = "<group>"; };
+		EE4E6AAD27B260A800DE7707 /* Swift.gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Swift.gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +42,7 @@
 		EE4E6A8B27B24B9900DE7707 = {
 			isa = PBXGroup;
 			children = (
-				EE4E6AAB27B2585C00DE7707 /* .gitignore.rtf */,
+				EE4E6AAD27B260A800DE7707 /* Swift.gitignore */,
 				EE4E6A9627B24B9900DE7707 /* LittlePink-git */,
 				EE4E6A9527B24B9900DE7707 /* Products */,
 			);
@@ -130,7 +130,7 @@
 			files = (
 				EE4E6AA427B24B9900DE7707 /* LaunchScreen.storyboard in Resources */,
 				EE4E6AA127B24B9900DE7707 /* Assets.xcassets in Resources */,
-				EE4E6AAC27B2585C00DE7707 /* .gitignore.rtf in Resources */,
+				EE4E6AAE27B260A800DE7707 /* Swift.gitignore in Resources */,
 				EE4E6A9F27B24B9900DE7707 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
